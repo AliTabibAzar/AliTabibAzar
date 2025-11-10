@@ -14,7 +14,6 @@ education:
     "Self-Taught Developer and Engneer",
     "Master's in ML and Computer Engineering",
   ]
-company: Soulber
 
 fields_of_interests:
   [
