@@ -8,7 +8,7 @@
 ```yaml
 name: Ali Tabib Azar
 located_in: Iran, Tehran
-current_job: Full Stack Developer
+current_job: Data Scientist
 education:
   [
     "Self-Taught Developer and Engneer",
@@ -24,7 +24,7 @@ fields_of_interests:
 technical_background:
   [
     "Full Stack Developer"
-    "Intern - Machine Learning in Python",
+    "Data Scientist",
     "Intern - Internet Of Things",
   ]
   
